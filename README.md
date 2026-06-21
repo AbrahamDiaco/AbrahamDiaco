@@ -2,7 +2,7 @@
 
 Cybersecurity Specialist | CEH · ISO/IEC 27001 Lead Auditor | SOC Analyst (in progress)
 
-Based in Abidjan, Côte d'Ivoire · Available for remote positions in Europe & international organizations
+Based in Abidjan, Côte d'Ivoire · Available for remote positions worldwide & international organizations
 
 ---
 
