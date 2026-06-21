@@ -12,7 +12,6 @@ I am an IT security consultant and founder of **YA Consulting**, specializing in
 
 With a background spanning offensive security (CEH), audit & compliance (ISO/IEC 27001 LA), and hands-on SOC operations, I am actively building my blue team expertise through structured lab environments and documented incident response playbooks.
 
-Currently preparing: Microsoft SC-200 · CompTIA CySA+ · TryHackMe SOC Level 1
 
 ---
 
