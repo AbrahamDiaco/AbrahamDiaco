@@ -1,6 +1,6 @@
 # Hi, I'm Abraham Diaco 
 
-Cybersecurity Specialist | CEH · ISO/IEC 27001 Lead Auditor | SOC Analyst (in progress)
+Cybersecurity Specialist | CEH · ISO/IEC 27001 Lead Auditor | SOC Analyst 
 
 Based in Abidjan, Côte d'Ivoire · Available for remote positions worldwide & international organizations
 
